@@ -1,0 +1,5 @@
+/home/dmitriy/CLionProjects/Task_Qt_Trein/cmake-build-debug/CMakeFiles/Task_Qt_Trein.dir
+/home/dmitriy/CLionProjects/Task_Qt_Trein/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitriy/CLionProjects/Task_Qt_Trein/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitriy/CLionProjects/Task_Qt_Trein/cmake-build-debug/CMakeFiles/Task_Qt_Trein_autogen_timestamp_deps.dir
+/home/dmitriy/CLionProjects/Task_Qt_Trein/cmake-build-debug/CMakeFiles/Task_Qt_Trein_autogen.dir
